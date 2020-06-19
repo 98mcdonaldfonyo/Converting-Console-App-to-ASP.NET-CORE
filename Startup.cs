@@ -29,9 +29,9 @@ namespace MyConsole
             app.UseRouting();
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapGet("/", async context =>
+                endpoints.Map("/", async context =>//mapGet-default () for Middleware-handles requests but Map()handles requests and Responses
                  {
-                     await context.Response.WriteAsync(" "+ " Hello from Foxx");
+                     await context.Response.WriteAsync(" Hello from Foxx");
                  });
 
 
