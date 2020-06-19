@@ -24,40 +24,14 @@ namespace MyConsole
 
                 app.UseDeveloperExceptionPage();
             }
-            app.Use(async (context, next) =>
-            {
-                await context.Response.WriteAsync("Mc Donald's First Middleware ");
-                await next();
-
-                await context.Response.WriteAsync("  Hello from my first Middleware Response   ");
-
-            });
-
-            //we can't get the response of the 2nd middleware without calling the next ()
-            app.Use(async (context, next) =>
-           {
-
-               await context.Response.WriteAsync("Hello from my second Middleware");
-               await next();
-
-               await context.Response.WriteAsync("  Hello from my second Middleware Response   ");
-
-           });
-
-            app.Use(async(context ,next)=>
-             {
-                 await context.Response.WriteAsync("  Hello from my third Middleware");
-                  
-
-             });
-
+          
 
             app.UseRouting();
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapGet("/", async context =>
                  {
-                     await context.Response.WriteAsync("Hello from Foxx");
+                     await context.Response.WriteAsync(" "+ " Hello from Foxx");
                  });
 
 
