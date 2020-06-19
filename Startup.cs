@@ -30,12 +30,38 @@ namespace MyConsole
             app.UseEndpoints(endpoints =>
             {
                 //mapGet-default () for Middleware-handles requests but Map()handles requests and Responses
+                //The Map() enables us to be flexible with routes(whichever resources needed)
                 endpoints.Map("/", async context =>
                  {
-                     await context.Response.WriteAsync(" Hello from Foxx");
+                     await context.Response.WriteAsync(" Hello Foxx");
+                    
                  });
 
 
+            });
+
+            app.UseRouting();
+
+        app.UseEndpoints(endpoints =>
+             {
+                 endpoints.Map("/Mc Donald", async context =>
+                 {
+                     await context.Response.WriteAsync("Hi McD");
+
+                 });
+            
+            });
+
+            app.UseRouting();
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.Map("/Fonyo", async context =>
+                 {
+
+                     await context.Response.WriteAsync("You are the best");
+                 });
+            
+            
             });
 
 
