@@ -40,7 +40,7 @@ namespace MyConsole
 
             });
 
-            app.UseRouting();
+            
 
         app.UseEndpoints(endpoints =>
              {
@@ -52,7 +52,7 @@ namespace MyConsole
             
             });
 
-            app.UseRouting();
+          
             app.UseEndpoints(endpoints =>
             {
                 endpoints.Map("/Fonyo", async context =>
