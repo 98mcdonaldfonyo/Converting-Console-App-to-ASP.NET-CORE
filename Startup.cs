@@ -33,7 +33,22 @@ namespace MyConsole
                 //The Map() enables us to be flexible with routes(whichever resources needed)
                 endpoints.Map("/", async context =>
                  {
-                     await context.Response.WriteAsync(" Hello Foxx");
+                     if (env.IsDevelopment())
+                     {
+                         await context.Response.WriteAsync("Hi Mc D, welcome to the Development env");
+
+                     }
+                     else if (env.IsProduction())
+                     {
+                         await context.Response.WriteAsync("Hi Mc D, welcome to the Production env");
+                     }
+                     else if (env.IsStaging())
+                     {
+
+                         await context.Response.WriteAsync("Hi Mc D, welcome to the Staging env");
+                     }
+                     else
+                         await context.Response.WriteAsync(env.EnvironmentName);
                     
                  });
 
