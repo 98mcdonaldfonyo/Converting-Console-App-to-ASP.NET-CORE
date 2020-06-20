@@ -14,73 +14,82 @@ namespace MyConsole
     {
         public void ConfigurationServices(IServiceCollection service)
         {
+            //telling my project that it will use an MVC template
+            service.AddControllersWithViews();
+         
 
         }
+
+       
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)//used as a middleware(service that speaks to the requests and responses)//routing
         {
             if (env.IsDevelopment())
             {
-
                 app.UseDeveloperExceptionPage();
             }
-          
 
             app.UseRouting();
             app.UseEndpoints(endpoints =>
             {
-                //mapGet-default () for Middleware-handles requests but Map()handles requests and Responses
-                //The Map() enables us to be flexible with routes(whichever resources needed)
-                endpoints.Map("/", async context =>
-                 {
-                     if (env.IsDevelopment())
-                     {
-                         await context.Response.WriteAsync("Hi Mc D, welcome to the Development env");
-
-                     }
-                     else if (env.IsProduction())
-                     {
-                         await context.Response.WriteAsync("Hi Mc D, welcome to the Production env");
-                     }
-                     else if (env.IsStaging())
-                     {
-
-                         await context.Response.WriteAsync("Hi Mc D, welcome to the Staging env");
-                     }
-                     else
-                         await context.Response.WriteAsync(env.EnvironmentName);
-                    
-                 });
-
-
+                //We are now telling the program to use the MVC  Route
+                
+                endpoints.MapDefaultControllerRoute();
+                
             });
-
-            
-
-        app.UseEndpoints(endpoints =>
-             {
-                 endpoints.Map("/Mc Donald", async context =>
-                 {
-                     await context.Response.WriteAsync("Hi McD");
-
-                 });
-            
-            });
-
-          
-            app.UseEndpoints(endpoints =>
-            {
-                endpoints.Map("/Fonyo", async context =>
-                 {
-
-                     await context.Response.WriteAsync("You are the best");
-                 });
-            
-            
-            });
-
 
         }
 
     }
 }
+
+/*
+//mapGet-default () for Middleware-handles requests but Map()handles requests and Responses
+//The Map() enables us to be flexible with routes(whichever resources needed)
+endpoints.Map("/", async context =>
+ {
+     if (env.IsDevelopment())
+     {
+         await context.Response.WriteAsync("Hi Mc D, welcome to the Development env");
+
+     }
+     else if (env.IsProduction())
+     {
+         await context.Response.WriteAsync("Hi Mc D, welcome to the Production env");
+     }
+     else if (env.IsStaging())
+     {
+
+         await context.Response.WriteAsync("Hi Mc D, welcome to the Staging env");
+     }
+     else
+         await context.Response.WriteAsync(env.EnvironmentName);
+
+ });
+
+
+});
+
+
+
+app.UseEndpoints(endpoints =>
+{
+ endpoints.Map("/Mc Donald", async context =>
+ {
+     await context.Response.WriteAsync("Hi McD");
+
+ });
+
+});
+
+
+app.UseEndpoints(endpoints =>
+{
+endpoints.Map("/Fonyo", async context =>
+ {
+
+     await context.Response.WriteAsync("You are the best");
+ });
+
+*/
+
