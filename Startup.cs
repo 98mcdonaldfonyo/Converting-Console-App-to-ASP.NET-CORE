@@ -12,7 +12,7 @@ namespace MyConsole
 {
     public class Startup
     {
-        public void ConfigurationServices(IServiceCollection service)
+        public void ConfigureServices(IServiceCollection service)
         {
             //telling my project that it will use an MVC template
             service.AddControllersWithViews();
