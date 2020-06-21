@@ -26,11 +26,96 @@ D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\Book App.pdb
 D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Book App.csprojAssemblyReference.cache
 D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Book App.AssemblyInfoInputs.cache
 D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Book App.AssemblyInfo.cs
-D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Book App.csproj.CoreCompileInputs.cache
-D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Book App.MvcApplicationPartsAssemblyInfo.cache
 D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Book App.RazorTargetAssemblyInfo.cache
 D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\staticwebassets\Book App.StaticWebAssets.Manifest.cache
 D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\staticwebassets\Book App.StaticWebAssets.xml
 D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Book App.dll
 D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Book App.pdb
 D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Book App.genruntimeconfig.cache
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Book App.csproj.CoreCompileInputs.cache
+D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Book App.MvcApplicationPartsAssemblyInfo.cache
+D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Book App.csproj.CopyComplete
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\Book App.Views.dll
+D:\Mc Donald Fonyo\Try\Book App\bin\Debug\netcoreapp3.1\Book App.Views.pdb
+D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Book App.RazorAssemblyInfo.cache
+D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Book App.RazorAssemblyInfo.cs
+D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Book App.TagHelpers.input.cache
+D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Book App.TagHelpers.output.cache
+D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Book App.RazorCoreGenerate.cache
+D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Book App.RazorTargetAssemblyInfo.cs
+D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Book App.Views.pdb
+D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Razor\Views\Home\AboutUs.cshtml.g.cs

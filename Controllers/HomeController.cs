@@ -8,11 +8,17 @@ namespace MyConsole.Controllers
 {
     public class HomeController: Controller//inherit the HomeController class from Controller class
     {
-        public string Index()
+        //we changed the return type from string to ViewResult, as the return types for action method with Views are ViewResult
+        //and a View () has to be used for each Controller 
+        //The name of the Controller has to be the same as its designated View file
+        public ViewResult Index()
 
         {
-            return "My first MVC"; 
+            return View(); 
         }
-
+        public ViewResult AboutUs()
+        {
+            return View();
+        }
     }
 }
