@@ -18,9 +18,11 @@ namespace MyConsole.Controllers
             bookRepository = new BookRepository();  
         }
         //at first we had a string type, but cz we are dealing with a list type inside the method, then we change the return type to List
-        public List<BookModel> getAllBooks()
+        //After creating a view file for this method, we have to chnage it's return type to ViewResult and return View() 
+        public ViewResult GetAllBooks()
         {
-            return bookRepository.GetAllBooks();
+            var data= bookRepository.GetAllBooks();
+            return View();
         }
         public BookModel GetBook(int id)
         {
