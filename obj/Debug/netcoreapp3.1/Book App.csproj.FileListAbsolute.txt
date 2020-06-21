@@ -119,3 +119,4 @@ D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.c
 D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Book App.RazorTargetAssemblyInfo.cs
 D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Book App.Views.pdb
 D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Razor\Views\Home\AboutUs.cshtml.g.cs
+D:\Mc Donald Fonyo\Try\Book App\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetAllBooks.cshtml.g.cs
