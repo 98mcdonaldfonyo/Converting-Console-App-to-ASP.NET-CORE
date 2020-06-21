@@ -14,7 +14,16 @@ namespace MyConsole.Controllers
         public ViewResult Index()
 
         {
-            return View(); //You can either pass the name of the vIew file on the View("View name")
+            return View(); 
+            
+            
+            
+            //You can either pass the name of the vIew file on the View("View name")
+           // var obj = new { Id = 1, Name = "Foxx" };
+           // return View(obj);//if the name of the View is the same as Obj name
+            //else
+           // return View("View name", obj);
+           //when using View from other dir then it will be Return("~/folderAnme/viewname.cshtml"); where "~" means that the View will be the Root one.
         }
         public ViewResult AboutUs()
         {
