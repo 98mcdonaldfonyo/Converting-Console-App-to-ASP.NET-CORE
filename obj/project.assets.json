@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Mc Donald Fonyo\\Try\\MyConsole\\MyConsole.csproj",
-      "projectName": "MyConsole",
-      "projectPath": "D:\\Mc Donald Fonyo\\Try\\MyConsole\\MyConsole.csproj",
+      "projectUniqueName": "D:\\Mc Donald Fonyo\\Try\\Book App\\Book App.csproj",
+      "projectName": "Book App",
+      "projectPath": "D:\\Mc Donald Fonyo\\Try\\Book App\\Book App.csproj",
       "packagesPath": "C:\\Users\\mcdon\\.nuget\\packages\\",
-      "outputPath": "D:\\Mc Donald Fonyo\\Try\\MyConsole\\obj\\",
+      "outputPath": "D:\\Mc Donald Fonyo\\Try\\Book App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
