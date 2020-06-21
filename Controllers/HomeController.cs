@@ -14,7 +14,7 @@ namespace MyConsole.Controllers
         public ViewResult Index()
 
         {
-            return View(); 
+            return View(); //You can either pass the name of the vIew file on the View("View name")
         }
         public ViewResult AboutUs()
         {
