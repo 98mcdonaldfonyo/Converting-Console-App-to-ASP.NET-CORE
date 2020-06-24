@@ -21,7 +21,7 @@ namespace MyConsole.Controllers
         //After creating a view file for this method, we have to chnage it's return type to ViewResult and return View() 
         public ViewResult GetAllBooks()
         {
-            var data= bookRepository.GetAllBooks();
+          //  var data= bookRepository.GetAllBooks();
             return View();
         }
         public BookModel GetBook(int id)
