@@ -6077,11 +6077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Mc Donald Fonyo\\Try\\Book App\\Book App.csproj",
+      "projectUniqueName": "D:\\Mc Donald Fonyo\\Mc Donald External Projects\\Random Projec Practices\\Book App\\Book App.csproj",
       "projectName": "Book App",
-      "projectPath": "D:\\Mc Donald Fonyo\\Try\\Book App\\Book App.csproj",
+      "projectPath": "D:\\Mc Donald Fonyo\\Mc Donald External Projects\\Random Projec Practices\\Book App\\Book App.csproj",
       "packagesPath": "C:\\Users\\mcdon\\.nuget\\packages\\",
-      "outputPath": "D:\\Mc Donald Fonyo\\Try\\Book App\\obj\\",
+      "outputPath": "D:\\Mc Donald Fonyo\\Mc Donald External Projects\\Random Projec Practices\\Book App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -6135,7 +6135,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

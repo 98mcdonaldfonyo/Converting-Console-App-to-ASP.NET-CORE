@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F5ReJqHw+CcmNIKp5VJc49qzg+YFeY/aUu+S/GV3DwssjqrPaF3webS7lXs9O3Os4kkXn8VsfOcrs4B4aGgmqw==",
+  "dgSpecHash": "2fQMDTTk8Xj15y0c9NRIhAeLhVrknpiskbzJOH4BEJ8tzUeCxZ0QD0m7w4Es5vmj/9edHlE2wS++BruWBt1v7g==",
   "success": true,
-  "projectFilePath": "D:\\Mc Donald Fonyo\\Try\\Book App\\Book App.csproj",
+  "projectFilePath": "D:\\Mc Donald Fonyo\\Mc Donald External Projects\\Random Projec Practices\\Book App\\Book App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mcdon\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\mcdon\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
